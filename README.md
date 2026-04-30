@@ -2,7 +2,19 @@
 
 ## Product One-Liner
 
-Whispr Frontier is a human-in-the-loop AI support agent for Solana and Web3 support tickets that investigates issues, gathers relevant context, and drafts replies for a human reviewer to approve.
+Whispr is a human-in-the-loop AI support agent that helps Solana teams resolve wallet and transaction tickets faster.
+
+## Product Description
+
+Whispr Frontier helps Solana support teams resolve Web3 tickets by analyzing wallet addresses, transaction signatures, on-chain activity, and relevant SOPs or internal docs. It turns that context into an investigation summary and draft response for human approval.
+
+## Positioning
+
+Whispr Frontier is built for support teams that need faster, clearer answers to wallet and transaction-related tickets without giving up human control. The agent investigates the ticket, retrieves relevant support procedures and documentation, explains the likely issue, and drafts a reply that a teammate reviews before sending.
+
+## Submission-Ready Version
+
+Whispr Frontier is a human-in-the-loop AI support agent for Solana teams. It analyzes wallet and transaction data, retrieves relevant SOPs and support docs, and drafts ticket responses for human approval so teams can resolve Web3 support issues faster.
 
 ## MVP Flow
 
@@ -33,4 +45,3 @@ The Web3 support angle includes common cases such as failed swaps, missing token
 - Broad CRM replacement features beyond the minimum ticket investigation and draft workflow.
 - Production-grade fraud detection, compliance review, or risk scoring.
 - Support for every blockchain ecosystem; the MVP is centered on Solana/Web3 support scenarios.
-
